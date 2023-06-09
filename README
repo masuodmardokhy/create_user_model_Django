@@ -1,0 +1,6 @@
+create user model django 
+
+
+We created a new user model to use it and 
+not use Django's default user modelWe created a
+new user model to use it and not use Django's default user model
